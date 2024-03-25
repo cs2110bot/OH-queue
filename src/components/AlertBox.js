@@ -12,7 +12,7 @@ class AlertBox extends Component {
               Office Hours is closing at {nextClosingTime}
             </div>
             <div className="alert-subbox">
-              Ask questions on Piazza or come another day!
+              Ask questions on ED or come another day!
             </div>
           </div>
         )}
